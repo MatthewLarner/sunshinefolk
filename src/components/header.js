@@ -10,7 +10,7 @@ const HeaderWrapper = styled.header`
 `;
 
 const Heading = styled.h1`
-    font-family: 'Unica One', cursive;
+    font-family: 'Unica One', serif;
     text-transform: uppercase;
     font-size: 38px;
     color: black;
